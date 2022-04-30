@@ -4,4 +4,4 @@ This repository contains code files used for the project "Sparsifying Networks w
 
 Team Members:
 
-`Gaurav Viramgami`, `Hrushti Naik`, `Manas Mulpuri`
+`Gaurav Viramgami` `Hrushti Naik` `Manas Mulpuri`
